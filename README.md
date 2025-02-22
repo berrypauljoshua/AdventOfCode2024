@@ -26,3 +26,5 @@
 |23              |00:00:00      |N/A           |N/A            |00:00:00      |N/A           |N/A            |
 |24              |00:00:00      |N/A           |N/A            |00:00:00      |N/A           |N/A            |
 |25              |00:00:00      |N/A           |N/A            |00:00:00      |N/A           |N/A            |
+
+> **NOTE:** Due to my end-of-year vacation, I was unable to participate in and complete as many of the challenges during Advent of Code 2024 as I would have liked. I will look to dedicate more time to future challenges but as I won't be going back to the 2024 challenge this repository will be archived. 
